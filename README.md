@@ -27,7 +27,7 @@
   <a href = "mailto:jaqueline.r.silva@ufv.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jaqueline-rodrigues-4770411b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation]https://github.com/Jaquers7/jaquers7/tree/main/.github/fluxos%20de%20trabalho
+  ![Snake animation] (https://github.com/Jaquers7/jaquers7/tree/main/.github/fluxos%20de%20trabalho)
  
 </div>
 
