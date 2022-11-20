@@ -1,10 +1,6 @@
-Olá! Eu sou a Jaqueline Rodrigues 👋
+##Olá! Eu sou a Jaqueline Rodrigues 👋
 
-🔭 Hoje trabalho como Projetista
 
-🌱 Estudando Engenharia Civil e Programação
-
-😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/jaquers7">
